@@ -1,5 +1,3 @@
-
-```markdown
 # Muted News - Top Headlines
 
 Muted News is a React application built with Next.js that displays top headlines fetched from a news API. It features an infinite scrolling mechanism to load more news articles as the user scrolls down the page.
@@ -118,7 +116,4 @@ If you'd like to contribute to this project, please follow these steps:
 
 7. Your pull request will be reviewed, and your changes may be merged into the main project.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-```
